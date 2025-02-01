@@ -12,6 +12,8 @@
   "all": "All",
   "completed": "Completed",
   "incomplete": "Incomplete",
+  "table_view": "Table View",
+  "grid_view": "Grid View",
   "menu": {
     "exilium_tracker": "EXILIUM Tracker",
     "platform": "Platform",
