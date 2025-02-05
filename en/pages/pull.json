@@ -14,11 +14,15 @@
     "pity": "Pity",
     "pulled_at": "Pulled At",
     "total_pulls": "Total Pulls",
+    "total_collapse_piece": "Total Collapse Piece",
+    "total_users": "Total Users",
     "collapse_piece": "Collapse Piece",
     "rate_up_wins": "Rate Up Wins",
     "rate_up_sr": "Rate Up SR",
     "ssr_pity": "SSR Pity",
     "sr_pity": "SR Pity",
+    "50/50 Win Rate": "50/50 Win Rate",
+    "75/25 Win Rate": "75/25 Win Rate",
     "retired": "Retired",
     "standard": "Standard",
     "elite": "Elite",
@@ -137,6 +141,8 @@
     "pity_value": "Pity: {value}",
     "ssr_procurement": "SSR Procurement",
     "sr_procurement": "SR Procurement",
+    "ssr_dupe_distribution": "SSR Duplicate Distribution",
+    "sr_dupe_distribution": "SR Duplicate Distribution",
     "chance": "Chance"
   }
 }
