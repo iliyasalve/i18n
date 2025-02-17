@@ -14,6 +14,7 @@
   "incomplete": "Incomplet",
   "table_view": "Vue en tableau",
   "grid_view": "Vue en grille",
+  "add_item": "Add Item",
   "menu": {
     "exilium_tracker": "Suivi EXILIUM",
     "platform": "Plateforme",
@@ -31,7 +32,9 @@
     "privacy_policy": "Politique de confidentialité",
     "calculator": "Calculatrice",
     "credit_token_price": "Prix du jeton de crédit",
-    "pull_simulator": "Simulateur de tirage"
+    "pull_simulator": "Simulateur de tirage",
+    "planner": "Planner",
+    "items": "Items"
   },
   "theme": {
     "light": "Clair",
