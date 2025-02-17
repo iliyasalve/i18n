@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "exilium_tracker_description": "Welcome to the EXILIUM Tracker — your comprehensive companion for Girls' Frontline 2: Exilium. Track procurement history and achievements all in one place. View global statistics, manage multiple profiles, and sync your data across devices.",
-    "procurement_tracker_description": "Track and analyze your procurement history in Girls' Frontline 2: Exilium. View detailed statistics of your Elite and Standard Doll/Weapon pulls.",
-    "global_statistics_description": "Girls' Frontline 2: Exilium Procurements Tally - Pity distribution and luck percentage from EXILIUM Tracker users",
-    "achievements_description": "Track and manage your achievements in Girls' Frontline 2: Exilium. View detailed progress, completion status, and unlock requirements for all in-game achievements.",
-    "dolls_description": "Explore detailed information about all Dolls in Girls' Frontline 2: Exilium.",
-    "weapons_description": "Explore detailed information about all Weapons in Girls' Frontline 2: Exilium.",
-    "settings_description": "Manage profiles, sync data with Google Drive, and create backups"
+    "exilium_tracker_description": "Bienvenue dans le Suivi EXILIUM — votre compagnon complet pour Girls' Frontline 2: Exilium. Suivez l'historique des acquisitions et des succès au même endroit. Consultez les statistiques mondiales, gérez plusieurs profils et synchronisez vos données sur différents appareils.",
+    "procurement_tracker_description": "Suivez et analysez votre historique d'acquisition dans Girls' Frontline 2: Exilium. Consultez des statistiques détaillées de vos tirages de Poupées/Armes Élites et Standard.",
+    "global_statistics_description": "Total des acquisitions de Girls' Frontline 2: Exilium - Distribution de la malchance et pourcentage de chance selon les utilisateurs du Suivi EXILIUM.",
+    "achievements_description": "Suivez et gérez vos succès dans Girls' Frontline 2: Exilium. Consultez les progrès détaillés, l'état de complétion et les conditions de déblocage pour tous les succès en jeu.",
+    "dolls_description": "Explorez des informations détaillées sur toutes les T-Dolls de Girls' Frontline 2: Exilium.",
+    "weapons_description": "Explorez des informations détaillées sur toutes les Armes de Girls' Frontline 2: Exilium.",
+    "settings_description": "Gérez les profils, synchronisez les données avec Google Drive et créez des sauvegardes."
   }
 }
