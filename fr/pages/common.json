@@ -14,6 +14,7 @@
   "incomplete": "Incomplete",
   "table_view": "Table View",
   "grid_view": "Grid View",
+  "add_item": "Add Item",
   "menu": {
     "exilium_tracker": "EXILIUM Tracker",
     "platform": "Platform",
@@ -31,7 +32,9 @@
     "privacy_policy": "Privacy Policy",
     "calculator": "Calculator",
     "credit_token_price": "Credit Token Price",
-    "pull_simulator": "Pull Simulator"
+    "pull_simulator": "Pull Simulator",
+    "planner": "Planner",
+    "items": "Items"
   },
   "theme": {
     "light": "Light",
