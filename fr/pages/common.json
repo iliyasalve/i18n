@@ -4,8 +4,13 @@
   "total": "Total",
   "count": "Compte",
   "search": "Rechercher",
+  "search_banner": "Search banner...",
+  "all_banners": "All Banners",
+  "no_banner_found": "No banner found",
+  "no_pull_data": "No pull data",
   "filter": "Filtrer",
   "select_filter": "Sélectionner un filtre...",
+  "edit": "Edit",
   "cancel": "Annuler",
   "delete": "Supprimer",
   "save_changes": "Enregistrer les modifications",
@@ -15,8 +20,12 @@
   "table_view": "Vue en tableau",
   "grid_view": "Vue en grille",
   "add_item": "Add Item",
+  "summary": "Summary",
+  "scroll_for_more": "Scroll for more",
+  "t_doll": "T-Doll",
+  "weapon": "Weapon",
+  "save": "Save",
   "menu": {
-    "exilium_tracker": "Suivi EXILIUM",
     "platform": "Plateforme",
     "procurement_tracker": "Suivi des achats",
     "global_statistics": "Statistiques mondiales",
@@ -38,9 +47,11 @@
   },
   "theme": {
     "light": "Clair",
-    "dark": "Sombre"
+    "dark": "Sombre",
+    "toggle_theme": "Toggle theme"
   },
   "auth": {
-    "continue_with_google": "Continuer avec Google"
+    "continue_with_google": "Continuer avec Google",
+    "sign_out": "Sign out"
   }
 }
