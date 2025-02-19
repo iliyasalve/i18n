@@ -31,6 +31,7 @@
     "banner_rerun": "{bannerName} ({rerunNumber, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} Rerun)",
     "luck_rating": {
       "pull_more_to_unlock": "Pull more to unlock",
+      "no_pull_statistic": "No pull statistic",
       "average_pity_luck": "Average Pity Luck",
       "pull_ratio_luck": "Pull Ratio Luck",
       "rate_up_luck": "Rate Up Luck",
