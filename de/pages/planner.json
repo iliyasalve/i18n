@@ -1,0 +1,12 @@
+{
+  "no_items_added": "No items added yet",
+  "click_the_plus_button_to_add": "Click \"Add Item\" button to get started",
+  "choose_doll": "Choose T-Doll",
+  "select_weapon": "Select Weapon",
+  "ready": "Ready",
+  "need_more": "Need {count} more",
+  "available": "{count} available",
+  "neural_helix": "Neural Helix",
+  "amount": "Amount",
+  "required_count": "Required: {count}"
+}
