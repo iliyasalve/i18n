@@ -18,5 +18,16 @@
   "can_i_track_multiple_accounts": "Can I track multiple accounts?",
   "can_i_track_multiple_accounts_description": "Yes, you can create and manage multiple profiles to track different in-game accounts. Each profile maintains its own separate in-game account data and statistics.",
   "footer_copyright": "© {year} EXILIUM Tracker",
-  "footer_disclaimer": "We are not affiliated with or endorsed by MICA Team or Sunborn Network Technology. All game assets, content, and trademarks belong to their respective owners."
+  "footer_disclaimer": "We are not affiliated with or endorsed by MICA Team or Sunborn Network Technology. All game assets, content, and trademarks belong to their respective owners.",
+  "official_links": "Official Links",
+  "official_website_darkwinter": "Official Website (Darkwinter)",
+  "official_website_haoplay": "Official Website (Haoplay)",
+  "social": "Social",
+  "official_discord": "Official Discord",
+  "official_reddit": "Official Reddit",
+  "legal": "Legal",
+  "server_statistics": "Server Statistics",
+  "total_across_all_servers": "Total Across All Servers",
+  "users_count": "{count, plural, =0 {No users yet} =1 {user} other {users}}",
+  "pulls_count": "{count, plural, =0 {No pulls yet} =1 {pull} other {pulls}}"
 }
