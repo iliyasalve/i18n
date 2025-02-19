@@ -4,8 +4,13 @@
   "total": "Total",
   "count": "Count",
   "search": "Search",
+  "search_banner": "Search banner...",
+  "all_banners": "All Banners",
+  "no_banner_found": "No banner found",
+  "no_pull_data": "No pull data",
   "filter": "Filter",
   "select_filter": "Select filter...",
+  "edit": "Edit",
   "cancel": "Cancel",
   "delete": "Delete",
   "save_changes": "Save Changes",
@@ -15,8 +20,12 @@
   "table_view": "Table View",
   "grid_view": "Grid View",
   "add_item": "Add Item",
+  "summary": "Summary",
+  "scroll_for_more": "Scroll for more",
+  "t_doll": "T-Doll",
+  "weapon": "Weapon",
+  "save": "Save",
   "menu": {
-    "exilium_tracker": "EXILIUM Tracker",
     "platform": "Platform",
     "procurement_tracker": "Procurement Tracker",
     "global_statistics": "Global Statistics",
@@ -38,9 +47,11 @@
   },
   "theme": {
     "light": "Light",
-    "dark": "Dark"
+    "dark": "Dark",
+    "toggle_theme": "Toggle theme"
   },
   "auth": {
-    "continue_with_google": "Continue with Google"
+    "continue_with_google": "Continue with Google",
+    "sign_out": "Sign out"
   }
 }
