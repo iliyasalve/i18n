@@ -13,5 +13,6 @@
   "ascension_level": "Ascension Level",
   "level": "Level",
   "previous_level_must_be_between": "Previous level must be between {min} and {max}",
-  "target_level_must_be_between": "Target level must be between {min} and {max}"
+  "target_level_must_be_between": "Target level must be between {min} and {max}",
+  "level_from_to": "Level {from} → {to}"
 }
