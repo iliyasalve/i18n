@@ -53,5 +53,8 @@
   "auth": {
     "continue_with_google": "Continuer avec Google",
     "sign_out": "Sign out"
-  }
+  },
+  "close": "Close",
+  "back": "Back",
+  "go_back": "Go back"
 }
