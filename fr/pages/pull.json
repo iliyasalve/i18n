@@ -3,7 +3,8 @@
     "type_3": "Acquisition ciblée",
     "type_4": "Amélioration militaire",
     "type_1": "Acquisition standard",
-    "type_5": "Acquisition pour débutants"
+    "type_5": "Acquisition pour débutants",
+    "type_8": "Mystery Box"
   },
   "procurement": {
     "recent_procurements": "Acquisitions récentes",
@@ -18,6 +19,7 @@
     "total_collapse_piece": "Total des pièces d'effondrement",
     "total_users": "Total des utilisateurs",
     "collapse_piece": "Pièce d'effondrement",
+    "wishing_coin": "Wishing Coin",
     "rate_up_wins": "Victoires sur le taux augmenté",
     "rate_up_sr": "Taux augmenté SR",
     "ssr_pity": "Malchance SSR",
