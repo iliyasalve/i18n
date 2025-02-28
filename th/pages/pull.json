@@ -3,7 +3,8 @@
     "type_3": "Targeted Procurement",
     "type_4": "Military Upgrade",
     "type_1": "Standard Procurement",
-    "type_5": "Beginner Procurement"
+    "type_5": "Beginner Procurement",
+    "type_8": "Mystery Box"
   },
   "procurement": {
     "recent_procurements": "Recent Procurements",
@@ -18,6 +19,7 @@
     "total_collapse_piece": "Total Collapse Piece",
     "total_users": "Total Users",
     "collapse_piece": "Collapse Piece",
+    "wishing_coin": "Wishing Coin",
     "rate_up_wins": "Rate Up Wins",
     "rate_up_sr": "Rate Up SR",
     "ssr_pity": "SSR Pity",
