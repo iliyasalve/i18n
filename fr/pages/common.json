@@ -4,8 +4,13 @@
   "total": "Total",
   "count": "Compte",
   "search": "Rechercher",
+  "search_banner": "Rechercher une bannière...",
+  "all_banners": "Toutes les bannières",
+  "no_banner_found": "Aucune bannière trouvée",
+  "no_pull_data": "Aucune donnée de tirage",
   "filter": "Filtrer",
   "select_filter": "Sélectionner un filtre...",
+  "edit": "Modifier",
   "cancel": "Annuler",
   "delete": "Supprimer",
   "save_changes": "Enregistrer les modifications",
@@ -14,9 +19,13 @@
   "incomplete": "Incomplet",
   "table_view": "Vue en tableau",
   "grid_view": "Vue en grille",
-  "add_item": "Add Item",
+"add_item": "Ajouter un élément",
+  "summary": "Résumé",
+  "scroll_for_more": "Faites défiler pour plus",
+  "t_doll": "T-Doll",
+  "weapon": "Arme",
+  "save": "Enregistrer",
   "menu": {
-    "exilium_tracker": "Suivi EXILIUM",
     "platform": "Plateforme",
     "procurement_tracker": "Suivi des achats",
     "global_statistics": "Statistiques mondiales",
@@ -33,14 +42,19 @@
     "calculator": "Calculatrice",
     "credit_token_price": "Prix du jeton de crédit",
     "pull_simulator": "Simulateur de tirage",
-    "planner": "Planner",
-    "items": "Items"
+    "planner": "Planificateur",
+    "items": "Éléments"
   },
   "theme": {
     "light": "Clair",
-    "dark": "Sombre"
+    "dark": "Sombre",
+    "toggle_theme": "Changer le thème"
   },
   "auth": {
-    "continue_with_google": "Continuer avec Google"
-  }
+    "continue_with_google": "Continuer avec Google",
+    "sign_out": "Se déconnecter"
+  },
+  "close": "Fermer",
+  "back": "Retour",
+  "go_back": "Retourner"
 }
