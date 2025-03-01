@@ -1,0 +1,5 @@
+{
+  "translation_announcement": "Aidez-nous à traduire le site web dans votre langue sur <link>Github</link>",
+  "route_beta_announcement": "La page {route} est actuellement en version bêta. Veuillez signaler tout problème sur <link>Github</link>",
+  "google_drive_sync_announcement": "Connectez-vous avec Google pour synchroniser vos données de pulls sur Google Drive. Cliquez sur l'icône de profil en haut à droite pour commencer."
+}
