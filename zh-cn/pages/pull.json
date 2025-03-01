@@ -3,10 +3,12 @@
     "type_3": "Targeted Procurement",
     "type_4": "Military Upgrade",
     "type_1": "Standard Procurement",
-    "type_5": "Beginner Procurement"
+    "type_5": "Beginner Procurement",
+    "type_8": "Mystery Box"
   },
   "procurement": {
     "recent_procurements": "Recent Procurements",
+    "no_recent_procurements_found": "No recent procurements found",
     "access_records": "Access Records",
     "no_access_records": "No access records",
     "pull_number": "Pull No.",
@@ -17,6 +19,7 @@
     "total_collapse_piece": "Total Collapse Piece",
     "total_users": "Total Users",
     "collapse_piece": "Collapse Piece",
+    "wishing_coin": "Wishing Coin",
     "rate_up_wins": "Rate Up Wins",
     "rate_up_sr": "Rate Up SR",
     "ssr_pity": "SSR Pity",
@@ -27,6 +30,18 @@
     "standard": "Standard",
     "elite": "Elite",
     "processing_banner": "Processing {bannerName} banner...",
+    "banner_rerun": "{bannerName} ({rerunNumber, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} Rerun)",
+    "luck_rating": {
+      "pull_more_to_unlock": "Pull more to unlock",
+      "no_pull_statistic": "No pull statistic",
+      "average_pity_luck": "Average Pity Luck",
+      "pull_ratio_luck": "Pull Ratio Luck",
+      "rate_up_luck": "Rate Up Luck",
+      "top": "Top",
+      "bottom": "Bottom",
+      "luckier_than_percentage_of_users": "Luckier than {percentage}% of users",
+      "unluckier_than_percentage_of_users": "Unluckier than {percentage}% of users"
+    },
     "import_guide": {
       "launch_game": "Launch Girls' Frontline 2: Exilium",
       "launch_game_description": "Open the game and navigate to the in-game access records page",
@@ -37,6 +52,7 @@
       "paste_the_json": "Paste the copied JSON here",
       "processing_banner": "Processing {bannerName} banner...",
       "choose_method": "Choose a method",
+      "automatic": "Automatic",
       "method_1": "Method 1",
       "method_2": "Method 2",
       "method_diy": "Do It Yourself",
@@ -124,7 +140,26 @@
         "x64_device_notice": "This method only works on x64/x86-based devices (like Android emulators). It will not work on ARM devices like most Android phones.",
         "modified_apk_notice": "Warning: This is a modified/patched version of the game APK. While the modification only enables HTTPS inspection for data import and doesn't affect gameplay, using modified APKs always carries risks. Use at your own discretion."
       },
-      "discord_support_notice": "If you encounter any issues or have questions, feel free to join our <strong>Discord community</strong> for support and assistance. Join us at <link>discord.gg/T2vpuvkrKn</link>."
+      "automatic_import": {
+        "automatic_import_notice": "This method will automatically fetch your recruitment records using PowerShell. Click the button below to start, then paste the command in PowerShell.",
+        "automatic_beta_notice": "Please note: The automatic import feature is currently in beta. While we've tested it extensively, you may encounter occasional issues. If you experience any problems, please try the other import method or report the issue on <link>GitHub</link>.",
+        "discord_support_notice": "If you encounter any issues or have questions, feel free to join our <strong>Discord community</strong> for support and assistance. Join us at <link>discord.gg/T2vpuvkrKn</link>.",
+        "video_tutorial": "Video Tutorial",
+        "start_import": "Start Import",
+        "cancel_import": "Cancel Import",
+        "retry_import": "Retry Import",
+        "waiting_for_powershell": "Waiting for PowerShell",
+        "waiting_for_powershell_description": "Command has been copied to clipboard. Please open PowerShell and press Ctrl+V to paste. You can view the script content <link>here</link>.",
+        "authentication_successful": "Authentication Successful",
+        "authentication_successful_description": "Please select your server in PowerShell to continue...",
+        "fetching_records": "Fetching Records",
+        "fetching_records_description": "Please wait while we fetch your gacha records...",
+        "import_complete": "Import Complete",
+        "import_complete_description": "Successfully imported your recruitment records!",
+        "error_server_error_or_invalid_token": "Server Error or Invalid Token",
+        "error_failed_to_fetch_records": "Failed to fetch pull records",
+        "error_unknown_error": "Unknown error"
+      }
     },
     "import_success": "Imported records successfully",
     "missing_uid_or_token": "Missing uid or token",
@@ -132,7 +167,9 @@
     "copied_to_clipboard": "Copied to clipboard",
     "server_error_or_invalid_token": "Server Error or Invalid Token",
     "could_not_find_required_data": "Could not find required data in log file",
-    "please_upload_a_player_log_file": "Please upload a Player.log file"
+    "please_upload_a_player_log_file": "Please upload a Player.log file",
+    "privacy_notice": "Privacy Notice",
+    "need_help": "Need Help?"
   },
   "global_statistic": {
     "procurements_per_day": "Procurements Per Day",
