@@ -160,6 +160,13 @@
         "error_server_error_or_invalid_token": "Server Error or Invalid Token",
         "error_failed_to_fetch_records": "Failed to fetch pull records",
         "error_unknown_error": "Unknown error"
+      },
+      "ios": {
+        "method1": {
+          "step1": "Install Stream - Network Debug Tool from the <link>App Store</link>",
+          "step2": "Follow the video tutorial until the <mark>1:40</mark> mark",
+          "step3": "Paste the copied data below"
+        }
       }
     },
     "import_success": "Imported records successfully",
