@@ -12,7 +12,7 @@
   "achievements_description": "Track your milestones and progress",
   "event_notices": "Event Notices",
   "how_to_import": "How do I import my data?",
-  "how_to_import_description": "Currently, data import is supported on Windows PCs and Android devices using our import guide. We are actively exploring ways to support iOS devices without requiring jailbreaking.",
+  "how_to_import_description": "Data import is supported on Windows PCs, Android, and iOS devices using our import guide. Each platform has specific instructions to help you easily import your game data.",
   "where_is_my_data_stored": "Where is my data stored?",
   "where_is_my_data_stored_description": "All data is stored locally on your device by default. If you choose to use cloud sync, your data is stored in your personal Google Drive space, allowing you to access it across different devices.",
   "can_i_track_multiple_accounts": "Can I track multiple accounts?",
