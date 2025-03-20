@@ -37,6 +37,7 @@
       "average_pity_luck": "Average Pity Luck",
       "pull_ratio_luck": "Pull Ratio Luck",
       "rate_up_luck": "Rate Up Luck",
+      "lifetime_pulls_rating": "Lifetime Pulls Rating",
       "top": "Top",
       "bottom": "Bottom",
       "luckier_than_percentage_of_users": "Luckier than {percentage}% of users",
@@ -159,6 +160,13 @@
         "error_server_error_or_invalid_token": "Server Error or Invalid Token",
         "error_failed_to_fetch_records": "Failed to fetch pull records",
         "error_unknown_error": "Unknown error"
+      },
+      "ios": {
+        "method1": {
+          "step1": "Install Stream - Network Debug Tool from the <link>App Store</link>",
+          "step2": "Follow the video tutorial until the <mark>1:40</mark> mark",
+          "step3": "Paste the copied data below"
+        }
       }
     },
     "import_success": "Imported records successfully",
