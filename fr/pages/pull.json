@@ -37,6 +37,7 @@
       "average_pity_luck": "Chance moyenne de malchance",
       "pull_ratio_luck": "Chance du ratio de tirage",
       "rate_up_luck": "Chance taux augmenté",
+      "lifetime_pulls_rating": "Lifetime Pulls Rating",
       "top": "Haut",
       "bottom": "Bas",
       "luckier_than_percentage_of_users": "Plus chanceux que {percentage}% des utilisateurs",
@@ -159,6 +160,13 @@
         "error_server_error_or_invalid_token": "Erreur du serveur ou jeton invalide",
         "error_failed_to_fetch_records": "Échec de la récupération des enregistrements de tirage",
         "error_unknown_error": "Erreur inconnue"
+      },
+      "ios": {
+        "method1": {
+          "step1": "Install Stream - Network Debug Tool from the <link>App Store</link>",
+          "step2": "Follow the video tutorial until the <mark>1:40</mark> mark",
+          "step3": "Paste the copied data below"
+        }
       }
     },
     "import_success": "Enregistrements importés avec succès",
